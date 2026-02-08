@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="score_label">Score: %1$d</string>
+    <string name="high_score_label">High score: %1$d</string>
+    <string name="status_ready">Swipe to move. Tap Start to begin.</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_running">Good luck!</string>
+    <string name="status_game_over">Game over! Tap Restart.</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="restart">Restart</string>
+</resources>
