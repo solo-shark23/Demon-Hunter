@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Snake</string>
+    <string name="app_name">Snake Game</string>
     <string name="score_label">Score: %1$d</string>
     <string name="high_score_label">High score: %1$d</string>
     <string name="status_ready">Swipe to move. Tap Start to begin.</string>
